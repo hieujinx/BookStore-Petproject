@@ -85,7 +85,7 @@ dotnet run --project BookStore.API
 
 ## 👨‍💻 Tác giả
 
-- 🔗 GitHub: [@dongvanhao](https://github.com/dongvanhao)
+- 🔗 GitHub: [@hieujinx](https://github.com/hieujinx)
 - 💬 Dự án được tạo với mục tiêu **rèn luyện chuyên sâu** & mô phỏng **quy trình làm việc thực tế trong doanh nghiệp**.
 
 ---
