@@ -76,7 +76,7 @@
 ## 🚀 Cài đặt nhanh
 
 ```bash
-git clone https://github.com/dongvanhao/BookStore-Petproject.git
+git clone https://github.com/hieujinx/BookStore-Petproject.git
 cd BookStore-Petproject
 dotnet ef database update -s BookStore.API -p BookStore.Infrastructure
 dotnet run --project BookStore.API
